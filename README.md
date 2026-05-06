@@ -1,13 +1,13 @@
 # 🛡️ João Artur | Infrastructure & Defensive Security (Blue Team)
 
 ## 💫 About Me
-[cite_start]I am an IT Support Assistant and Infrastructure Operator, currently in my 5th period of Systems Analysis and Development at IFNMG[cite: 74, 76, 80]. [cite_start]I specialize in Linux server administration, containerization, and proactive system monitoring[cite: 93, 94, 97]. 
+I am an IT Support Assistant and Infrastructure Operator, currently in my 5th period of Systems Analysis and Development at IFNMG[cite: 74, 76, 80]. [cite_start]I specialize in Linux server administration, containerization, and proactive system monitoring[cite: 93, 94, 97]. 
 
 My approach bridges the gap between IT operations and Information Security, ensuring systems are not just highly available, but securely architected.
 
-- [cite_start]🔭 **Currently working on:** Architecting my personal homelab (Docker, Traefik, Zabbix) and developing a secure REST API in Go[cite: 94, 97].
-- [cite_start]🌱 **Currently studying:** Defensive Security (Blue Team operations), SIEM environments, and applying the NIST Framework[cite: 70].
-- [cite_start]💼 **Professional Experience:** IT Support, Infrastructure Administration (VPS/Linux), and ERP/CRM implementations at GETI[cite: 81, 83, 84].
+- 🔭 **Currently working on:** Architecting my personal homelab (Docker, Traefik, Zabbix) and developing a secure REST API in Go[cite: 94, 97].
+- 🌱 **Currently studying:** Defensive Security (Blue Team operations), SIEM environments, and applying the NIST Framework[cite: 70].
+- 💼 **Professional Experience:** IT Support, Infrastructure Administration (VPS/Linux), and ERP/CRM implementations at GETI[cite: 81, 83, 84].
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-artur-ferreira-passos)
