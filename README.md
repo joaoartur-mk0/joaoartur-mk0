@@ -1,7 +1,7 @@
 # 🛡️ João Artur | Infrastructure & Defensive Security (Blue Team)
 
 ## 💫 About Me
-I am an IT Support Assistant and Infrastructure Operator, currently in my 5th period of Systems Analysis and Development at IFNMG. I specialize in Linux server administration, containerization, and proactive system monitoring. 
+I am an Network Analyst, currently in my 5th period of Systems Analysis and Development at IFNMG. I specialize in Linux server administration, containerization, and proactive system monitoring. 
 
 My approach bridges the gap between IT operations and Information Security, ensuring systems are not just highly available, but securely architected.
 
